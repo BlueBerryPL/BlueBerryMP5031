@@ -1,0 +1,134 @@
+########################################
+# Syntax Coloring Map For MP5031 Library
+########################################
+
+########################################
+# Datatypes (KEYWORD1)
+########################################
+
+MPS	KEYWORD1
+MP5031  KEYWORD1
+
+########################################
+# Methods and Functions (KEYWORD2)
+########################################
+
+getSoftwareRevision			KEYWORD2
+setPowerDataObject			KEYWORD2
+setPowerDataObjectMode			KEYWORD2
+setPowerDataObjectCurrent		KEYWORD2
+setPowerDataObjectVoltage		KEYWORD2
+getSuffixCode				KEYWORD2
+setLowVoltageDetectionResponse		KEYWORD2
+setLegacyChargingMode			KEYWORD2
+setNTCPowerSharingFunction		KEYWORD2
+setChargingDataPortMode			KEYWORD2
+setSlaveAddress				KEYWORD2
+setTypeCMode				KEYWORD2
+reset					KEYWORD2
+update					KEYWORD2
+setUSBSuspend				KEYWORD2
+setUSBCommunication			KEYWORD2
+setLPSCompliance			KEYWORD2
+setTouchCurrent				KEYWORD2
+setTouchTemperature			KEYWORD2
+setChunkedBit				KEYWORD2
+setAmountOfSentSourceCapability		KEYWORD2
+setVDRV					KEYWORD2
+setOperationMode			KEYWORD2
+setFrequencyDithering			KEYWORD2
+setTimerDelay				KEYWORD2
+setGPIO4Functionality			KEYWORD2
+setGPIO3Functionality			KEYWORD2
+setGPIO2Functionality 			KEYWORD2
+setGPIO1Functionality 			KEYWORD2
+setNTCBehaviour 			KEYWORD2
+setUVLOThreshold 			KEYWORD2
+setVDRVFunctionality 			KEYWORD2
+setGPIO7Functionality 			KEYWORD2
+setGPIO6Functionality 			KEYWORD2
+setGPIO5Functionality 			KEYWORD2
+setSinkPowerDataObjectPowerRating 	KEYWORD2
+setSourcePowerDataObjectPowerRating 	KEYWORD2
+getSinkRequestedVoltage 		KEYWORD2
+checkDataLineStatus 			KEYWORD2
+checkAttachStatus			KEYWORD2
+checkOverTemperatureEvent 		KEYWORD2
+checkContract 				KEYWORD2
+checkLoadShedding 			KEYWORD2
+checkCableCapability 			KEYWORD2
+checkMismatchEvent			KEYWORD2
+checkSinkPowerDataObjectDemand 		KEYWORD2
+getSinkRequestedCurrent 		KEYWORD2
+getVendorIdentificationNumber 		KEYWORD2
+setDigitalClock 			KEYWORD2
+
+########################################
+# Constants (LITERAL1)
+########################################
+
+DISABLE		LITERAL1
+ENABLE		LITERAL1
+NONE		LITERAL1
+ALL		LITERAL1
+FPDO		LITERAL1
+APDO		LITERAL1
+PDO1		LITERAL1
+PDO2		LITERAL1
+PDO3		LITERAL1
+PDO4		LITERAL1
+PDO5		LITERAL1
+PWR_SHARE_LIMT	LITERAL1
+DCP		LITERAL1
+DIVIDER		LITERAL1
+MP298X		LITERAL1
+MP424X		LITERAL1
+MP28167		LITERAL1
+MP42550		LITERAL1
+MP42551		LITERAL1
+LPS		LITERAL1
+PS1		LITERAL1
+PS2		LITERAL1
+EPS		LITERAL1 
+GP 		LITERAL1
+GPE 		LITERAL1
+TS0 		LITERAL1
+TS1 		LITERAL1 
+TS2 		LITERAL1
+ONCE 		LITERAL1
+TWICE 		LITERAL1
+PFM 		LITERAL1
+PWM 		LITERAL1
+EN 		LITERAL1
+VBATT 		LITERAL1
+ARB 		LITERAL1
+ATTACH 		LITERAL1
+EN_OFF 		LITERAL1
+POL 		LITERAL1
+PDO3_SEL 	LITERAL1
+ISENSP 		LITERAL1
+IPWM 		LITERAL1
+QC 		LITERAL1
+PULLDOWN 	LITERAL1
+SHARE 		LITERAL1 
+PDO2_SEL 	LITERAL1
+INT 		LITERAL1
+OD 		LITERAL1
+VSEL1 		LITERAL1
+REDUCE 		LITERAL1
+SHUTDOWN 	LITERAL1
+VDRV0 		LITERAL1
+VDRV1 		LITERAL1
+DISCHG 		LITERAL1
+EN_OUT_MID 	LITERAL1
+EN_OUT 		LITERAL1
+COMP 		LITERAL1
+PDO4_SEL 	LITERAL1
+VSEL2 		LITERAL1 
+SYNC_OUT2 	LITERAL1
+NTC2 		LITERAL1 
+I2C_SLV_SDA 	LITERAL1
+I2C_SLV_SCL 	LITERAL1
+SYNC_OUT1	LITERAL1
+VBUS_DETECT 	LITERAL1
+
